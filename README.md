@@ -33,8 +33,13 @@ Ajout et réequilibrage de plusieurs sorts.
 Ajout du mode en ligne par API
 Réfonte des sorts et de certains menus.
 
----V4 (Pas encore fini)---
+---V4---
 Réfonte complète des GUIs.
+Ajout de difficultés.
 Ajoute de couleurs.
 Meilleure fluidité dans les menus.
 Ajout d'un écran titre.
+
+---V4.5---
+Ajout du générateur de donjons.
+Patch de nombreux bugs/ exploits.
